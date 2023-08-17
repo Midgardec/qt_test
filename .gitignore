@@ -52,3 +52,12 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+
+# vs
+
+/.vs
+
+/x64
+/QtWidgetsApplication1/x64
+*.log
